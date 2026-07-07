@@ -4,14 +4,6 @@ A clean, responsive, and user-friendly **Weather Application** built using **HTM
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot of your project here.
-
-![Weather App Screenshot](./assets/weather-app-preview.png)
-
----
-
 ## ✨ Features
 
 - 🌍 Search weather by city name
